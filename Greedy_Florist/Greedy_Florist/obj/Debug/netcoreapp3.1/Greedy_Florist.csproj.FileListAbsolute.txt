@@ -1,0 +1,14 @@
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.csproj.AssemblyReference.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.exe
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.deps.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.runtimeconfig.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\bin\Debug\netcoreapp3.1\Greedy_Florist.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.dll
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.pdb
+C:\Users\hernandezdesilviga\Documents\CodeChallenges\Greedy_Florist\Greedy_Florist\Greedy_Florist\obj\Debug\netcoreapp3.1\Greedy_Florist.genruntimeconfig.cache
