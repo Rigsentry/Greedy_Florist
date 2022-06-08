@@ -77,3 +77,5 @@ We then print the sum of these purchases, which is **5+4+6=15**, as our answer.
 ## Explanation 2
 
 The friends buy flowers for **9**, **7** and **3,5** and **1** for a cost of **9+7+3x(1+1)+5+1x(1+1)=29**.
+
+Link to HackerRank: https://www.hackerrank.com/challenges/greedy-florist/problem?isFullScreen=true
